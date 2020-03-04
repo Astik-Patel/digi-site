@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: i-Excel Demo - Page Builder were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/excel
+Data file = C:\wamp\www\excel/wp-content/uploads/2018/01/demo-content-import-file_2018-01-31__09-39-54.xml
+Widget file = C:\wamp\www\excel/wp-content/uploads/2018/01/demo-widgets-import-file_2018-01-31__09-39-54.json
+Customizer file = C:\wamp\www\excel/wp-content/uploads/2018/01/demo-customizer-import-file_2018-01-31__09-39-54.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Widget Area : 
+
+NX Recent Posts - NX Recent Posts - Imported
+NX Recent Comments - NX Recent Comments - Imported
+NX Portfolio Grid - NX Recent Portfolio - Imported
+Text - Quick Contact - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
